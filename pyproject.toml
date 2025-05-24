@@ -5,7 +5,6 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "beautifulsoup4",
-    "request",
-    "streamlit",
+    "requests>=2.32.3",
+    "streamlit>=1.45.1",
 ]
